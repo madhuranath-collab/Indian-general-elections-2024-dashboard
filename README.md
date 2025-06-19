@@ -50,9 +50,7 @@ Close contests and dominant wins at constituency level.
 Role of regional parties and swing trends.
 
 ## 📂 Data Source
-Election Commission of India (ECI)
-Official data on Lok Sabha (General) Elections
-🔗 https://eci.gov.in
+(https://github.com/madhuranath-collab/Indian-general-elections-2024-dashboard/blob/main/Raw%20Data-20250610T112154Z-1-001.zip)
 
 ## 🚀 How to Use
 Open the .pbix file in Power BI Desktop.
