@@ -1,5 +1,5 @@
 ## 📊 Project Overview 
-This project is a deep-dive interactive Power BI dashboard analyzing the Indian General Election Results. The report is designed to help users explore insights on party performance, alliance strength, state-level demographics, and constituency-level outcomes through rich visuals, advanced DAX logic, dynamic filters, and custom navigation using bookmarks.
+This project is a deep-dive interactive Power BI dashboard analyzing the Indian General Election Results 2024. The report is designed to help users explore insights on party performance, alliance strength, state-level demographics, and constituency-level outcomes through rich visuals, advanced DAX logic, dynamic filters, and custom navigation using bookmarks.
 
 ## 🎯 Objectives
 To analyze and visualize party and alliance performance across national and state levels.
